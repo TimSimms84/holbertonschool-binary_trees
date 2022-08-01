@@ -3,7 +3,7 @@
 /**
  * binary_tree_nodes - counts nodes with atleast 1 child
  * @tree: pointer to binary tree
- * return: number of nodes
+ * Return: number of nodes
  */
 
 size_t binary_tree_nodes(const binary_tree_t *tree)
