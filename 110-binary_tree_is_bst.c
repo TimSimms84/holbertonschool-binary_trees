@@ -3,7 +3,7 @@
 /**
  * get_max - check if all values in the tree are greater than a value
  * @tree: pointer to the root node of the tree to check
- * @val: value to check 
+ * @val: value to check
  *
  * Return: 1 if true else false
  */
