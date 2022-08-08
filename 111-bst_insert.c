@@ -4,6 +4,7 @@
  * bst_insert - insert a node into a binary tree
  * @tree: double pointer to the root node of the BST to insert the value
  * @value: value to store in the node to be inserted
+ * Return: inserted Node or NULL
  */
 
 bst_t *bst_insert(bst_t **tree, int value)
